@@ -1,6 +1,6 @@
 /*Start N64 Styling*/
 .controller.custom {
-    background: url(baseNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/baseNEW.png);
     height: 851px;
     width: 810px;
 }
@@ -14,7 +14,7 @@
 }
 
 .custom .bumper{
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     height: 68px;
     width: 174px;
     display: block;
@@ -34,7 +34,7 @@
 .custom .trigger.left{
     width: 52px;
     height: 88px;
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     display: block;
     background-position-y: -72px;
 }
@@ -49,7 +49,7 @@
 }
 
 .custom .dpad .face{
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     height: 64px;
     width: 44px;
     background-position-y: -164px;
@@ -81,7 +81,7 @@
 
 /* We're using the node used for a controller's system button here */
 .custom .meta{
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     width: 55px;
     height: 55px;
     background-position-y: -282px;
@@ -97,7 +97,7 @@
 }
 
 .custom .abxy .button{
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     width: 47px;
     height: 47px;
     background-position-y: -231px;
@@ -135,7 +135,7 @@
 }
 
 .custom .back, .custom .start{
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     width: 61px;
     height: 61px;
     background-position-y: -341px;
@@ -157,7 +157,7 @@
 }
 
 .custom .stick.left{
-    background: url(buttonsNEW.png);
+    background: url(https://github.com/baked420/n64Skin/blob/09f34a0b90525fd4a393bbece8fb6919856cd978/buttonsNEW.png);
     width: 73px;
     height: 73px;
     display: block;
